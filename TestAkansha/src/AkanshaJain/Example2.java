@@ -6,6 +6,7 @@ public class Example2 {
 		System.out.println("Hello World");
 		System.out.println("New line in first branch");
 		System.out.println("New line in second branch");
-		System.out.println("New line in Branch 1");
+		System.out.println("New line in Branch One");
+		System.out.println("New line in Branch Two");
 	}
 }
